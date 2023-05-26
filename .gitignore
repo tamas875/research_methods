@@ -1,0 +1,5 @@
+#OS generated files
+.DS_Store
+
+#Files related to analysis
+.Rhistory
