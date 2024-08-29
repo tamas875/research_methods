@@ -1,2 +1,2 @@
 # Research methods
-Scripts used for statistical analysis of different research questions.
+Code used for statistical analysis. For accessing the code see the 'src' folder.
